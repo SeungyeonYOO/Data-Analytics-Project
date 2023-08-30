@@ -1,0 +1,21 @@
+---
+title: "Flavor"
+author: "Seungyeon Yoo"
+date: "`r Sys.Date()`"
+output: html_document
+---
+
+
+
+
+# Does the flavor affect the overall ratings of workout supplements?
+
+## 1. Loading the Dataset
+
+```{r}
+getwd()
+nutrition <- read.csv("bodybuilding_nutrition_products.csv")
+head(nutrition)
+names(nutrition)
+```
+
