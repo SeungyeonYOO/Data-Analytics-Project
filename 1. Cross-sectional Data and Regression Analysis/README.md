@@ -1,1 +1,4 @@
 # Cross-Sectional Data and Regression Analysis
+
+## Overview
+In this project, we are attempting to determine which of the variables in the HousePrices dataset influenced housing prices in Windsor, Canada in the late summer of 1987. To do so, we measure the effect of variables that are potentially related to the price a house was sold for. There are a total of 11 variables in question, starting with the lot size of the house. Next are the 4 variables that denote the number of bedrooms, bathrooms, stories, and garage spaces, respectively. Lastly are the 6 variables that each denote whether or not the property has a driveway, a recreational room, a full-finished basement, a gas heater for water, central air conditioning, or if the property is located in the preferred neighborhood.
