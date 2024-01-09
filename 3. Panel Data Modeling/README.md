@@ -1,1 +1,2 @@
 # Panel Data Modeling
+In this first part of the project, the question we attempt to answer is:***"Within the same time frame, how do the impacts of per-capita income, gasoline prices, and the number of cars on motor gasoline consumption differ across countries?"*** In other words, we are attempting to identify whether or not the impacts of the independent variables are statistically different across countries, and if so, which model is the most appropriate to capture the dynamics, among pooled, fixed effects, and random effects models.
