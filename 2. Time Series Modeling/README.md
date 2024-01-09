@@ -1,1 +1,2 @@
 # Time Series Modeling
+This project attempts to model the prices of black and white pepper based on the prices of the black and white variants of pepper from 1973 to 1996. The primary focus of this project is to fit AR (Autoregressive) or ARDL (Autoregressive Distributed Lag) models and find the best-performing model by using information criteria (AIC and BIC). In addition, the causal relationship between two variables is also explored using Granger Causality Analysis, which analyzes how lagged values of one variable can help explain the behavior of the other variable.
